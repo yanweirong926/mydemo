@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: auction-1960
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 严伟榕
+Implementation-Vendor-Id: com.web.auction
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/auction-1960
+Created-By: Maven Integration for Eclipse
+
